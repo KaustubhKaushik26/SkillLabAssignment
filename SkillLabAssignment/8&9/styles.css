@@ -1,0 +1,47 @@
+body{
+    background-image: url("https://www.eatthis.com/wp-content/uploads/sites/4//media/images/ext/567640979/shopping-cart-grocery-store.jpg?quality=82&strip=1");
+
+}
+
+h1{
+    font-family: cursive;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.container{
+    position: relative;
+    left: 40%;
+    font-size: 30;
+}
+
+input{
+    height: 40;
+}
+button{
+    position: relative;
+    left: 30px;
+    background:#FF6D28;
+    border: none;
+    border-radius: 32;
+    border-radius: 34px;
+    font-family: cursive;
+    color: #ffffff;
+    font-size: 23px;
+    padding: 9px 24px 9px 24px;
+    text-decoration: none;
+  }
+
+button:hover {
+    background: #FCE700;
+    color: #FF6D28;
+    text-decoration: none;
+}
+
+table{
+    position: relative;
+    right: 150px;
+    background-color: #FFABE1;
+    font-size: 40px;
+}
